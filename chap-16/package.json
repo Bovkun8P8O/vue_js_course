@@ -1,5 +1,9 @@
 {
   "dependencies": {
+    "jquery": "^3.6.3",
     "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
   }
 }
