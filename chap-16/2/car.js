@@ -7,7 +7,9 @@ Car.prototype.logName = function() {
 }
 
 // module.exports.CarClass = Car;
+
 // module.exports = {
 //     Car: Car
 // }
+
 global.Car = Car;
