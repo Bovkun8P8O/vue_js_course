@@ -1,7 +1,8 @@
 {
   "dependencies": {
     "jquery": "^3.6.3",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "optimist": "^0.6.1"
   },
   "devDependencies": {
     "gulp": "^3.9.1"
