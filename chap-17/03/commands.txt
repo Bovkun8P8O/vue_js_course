@@ -1,0 +1,5 @@
+webpack init.js out.js
+webpack init.js out-p.js -p
+webpack init.js out.js --watch
+webpack init.js out.js -d
+webpack init.js out.js --colors
