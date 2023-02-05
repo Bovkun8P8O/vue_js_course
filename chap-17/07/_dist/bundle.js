@@ -1,0 +1,2 @@
+(()=>{var e={996:()=>{console.log("b.js")},460:()=>{console.log("c.js")}},o={};function r(t){var s=o[t];if(void 0!==s)return s.exports;var n=o[t]={exports:{}};return e[t](n,n.exports,r),n.exports}r.n=e=>{var o=e&&e.__esModule?()=>e.default:()=>e;return r.d(o,{a:o}),o},r.d=(e,o)=>{for(var t in o)r.o(o,t)&&!r.o(e,t)&&Object.defineProperty(e,t,{enumerable:!0,get:o[t]})},r.o=(e,o)=>Object.prototype.hasOwnProperty.call(e,o),(()=>{"use strict";r(996),r(460),console.log("a.js")})()})();
+//# sourceMappingURL=bundle.js.map
