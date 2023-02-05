@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("Application action"),console.log("You are on the Home Page")})();

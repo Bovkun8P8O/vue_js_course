@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("Application action"),console.log("You are on the Shop Page"),console.log("Shop item action")})();
