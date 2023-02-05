@@ -1,0 +1,1 @@
+(()=>{var o={847:()=>{console.log("a")},460:()=>{console.log("c")},767:()=>{console.log("d")}},e={};function r(s){var l=e[s];if(void 0!==l)return l.exports;var n=e[s]={exports:{}};return o[s](n,n.exports,r),n.exports}(()=>{"use strict";r(847),r(460),r(767),console.log("b"),console.log("init")})()})();
